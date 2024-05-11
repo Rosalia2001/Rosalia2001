@@ -1,92 +1,18 @@
-<div align="center">
-<img src="https://giphy.com/gifs/funny-cat-mlvseq9yvZhba" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Hola 👋, Mi nombre es Rosalia Martinez Alcoba, Futura Ingeniera Financiera y desarrolladora de software</div>  
-  
-
-- 🔭 Actualmente estoy trabajando en el desarrollo y fabricación de una maquina dispensadora de líquidos  
-  
-
-- 🌱 Actualmente estoy aprendiendo y avanzando mis conocimientos en python y herramientas relacionadas  
-  
-
-- ❓ Pregúntame sobre cualquier cosa relacionada a finanzas y UX/UI Design y Python  
-  
-
-- ⚡ Fun fact: 
-El mercado de divisas (Forex) es el mercado financiero más grande y líquido del mundo, con un volumen diario de transacciones que supera los 6 billones de dólares estadounidenses.  
-  
-
-<br/>  
+# 💫 About Me:
+🔭 Actualmente estoy trabajando en el desarrollo y fabricación de una maquina dispensadora de líquidos<br>🌱 Actualmente estoy aprendiendo y avanzando mis conocimientos en python y herramientas relacionadas<br><br>❓ Pregúntame sobre cualquier cosa relacionada a finanzas y UX/UI Design y Python<br><br>⚡ Fun fact: El mercado de divisas (Forex) es el mercado financiero más grande y líquido del mundo, con un volumen diario de transacciones que supera los 6 billones de dólares estadounidenses.<br>
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ rosaliamartinezalc) 
 
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rosalia2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rosalia2001&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosalia2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Rosalia2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Herramientas y Programas  
-<div align="center">  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://instagram.com/https://www.instagram.com/rosaliamartinezalc/?hl=es" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/(https://github.com/Rosalia2001)" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
