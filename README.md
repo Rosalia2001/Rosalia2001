@@ -1,5 +1,6 @@
-# 💫 About Me:
-🔭 Actualmente estoy trabajando en el desarrollo y fabricación de una maquina dispensadora de líquidos<br>🌱 Actualmente estoy aprendiendo y avanzando mis conocimientos en python y herramientas relacionadas<br><br>❓ Pregúntame sobre cualquier cosa relacionada a finanzas y UX/UI Design y Python<br><br>⚡ Fun fact: El mercado de divisas (Forex) es el mercado financiero más grande y líquido del mundo, con un volumen diario de transacciones que supera los 6 billones de dólares estadounidenses.<br>
+# Hola 👋🤗, Mi Nombre es Rosalia Martinez Alcoba
+# 💫 Acerca de mi:
+🔭 Actualmente estoy trabajando en el desarrollo y fabricación de una maquina dispensadora de líquidos con mi grupo <br>🌱 Actualmente estoy aprendiendo y avanzando mis conocimientos en python y herramientas relacionadas<br><br>❓ Pregúntame sobre cualquier cosa relacionada a finanzas y UX/UI Design y Python<br><br>⚡ Fun fact: El mercado de divisas (Forex) es el mercado financiero más grande y líquido del mundo, con un volumen diario de transacciones que supera los 6 billones de dólares estadounidenses.<br>
 
 
 ## 🌐 Socials:
