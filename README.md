@@ -14,7 +14,8 @@
   <img src="https://github.com/Rosalia2001/PracticosenClase/blob/main/HeadingClass.png" alt="Header Image" style="height:60%; width:60%;" />
 </a>
 
-[![Trabajos Practicos](https://img.shields.io/badge/Trabajos_Practicos-%23181717?style=flat&logo=GitHub&logoColor=white&logoSize=white)]([https://github.com/mouredev/hello-python](https://github.com/Rosalia2001/PracticosenClase))
+[![Trabajos Practicos](https://img.shields.io/github/stars/Rosalia2001/PracticosenClase?style=flat&logo=GitHub&logoColor=black&label=Trabajos%20Practicos
+)](https://github.com/Rosalia2001/PracticosenClase)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rosalia2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rosalia2001&theme=dark&hide_border=false)<br/>
