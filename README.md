@@ -8,6 +8,12 @@
 
 # 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)
+# Repositorios
+## Trabajos Practicos
+<a href="https://github.com/Rosalia2001/PracticosenClase/blob/main/HeadingClass.png">
+  <img src="https://github.com/Rosalia2001/PracticosenClase/blob/main/HeadingClass.png" alt="Header Image" style="height:60%; width:60%;" />
+</a>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rosalia2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rosalia2001&theme=dark&hide_border=false)<br/>
