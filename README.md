@@ -33,12 +33,13 @@
 [![KAIZEN](https://img.shields.io/github/stars/Rosalia2001/Proyecto-Final?style=flat&logo=GitHub&logoColor=black&label=KAIZEN
 )](https://github.com/Rosalia2001/Proyecto-Final)
 
+## Analitica de Datos (R o Rstudio)
+<a href="#">
+  <img src="https://github.com/Rosalia2001/Rstudio/blob/main/headingdata.png" alt="Header Image" style="height:60%; width:60%;" />
+</a>
 
-
-
-
-
-
+[![KAIZEN](https://img.shields.io/github/stars/Rosalia2001/Rstudio?style=flat&logo=GitHub&logoColor=black&label=Rstudio
+)](https://github.com/Rosalia2001/Rstudio)
 
 
 # 📊 GitHub Stats:
